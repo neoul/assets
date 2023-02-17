@@ -1,0 +1,12 @@
+{
+  "name": "meta #7",
+  "description": "META NFT for Aptos Blockchain.",
+  "image": "https://cdn.galxe.com/galaxy/metapixel/ee8adcf7-09e1-4b0a-9f66-7a60c08d15c2.gif",
+  "external_url": "https://example.com",
+  "attributes": [
+    {
+      "trait_type": "number",
+      "value": "7"
+    }
+  ]
+}
